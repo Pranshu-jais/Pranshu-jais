@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pranshu Jaiswal<br><br>A student passionate about data science and  machine learning. I'm on a journey to learn and apply these technologies to solve real-world problems<br><br>🔭 I’m currently working on Web development  and Data Analytics<br><br>🌱 I’m currently learning Deep learning<br><br>👯 I’m looking to collaborate on with open source enthusiasts and developers<br><br>⚡ Fun fact I am a day dreamer<br><br>
+Hi 👋, I'm Pranshu Jaiswal<br><br>A student passionate about data science and  machine learning. I'm on a journey to learn and apply these technologies to solve real-world problems<br><br>🌱 I’m currently learning Deep learning<br><br>👯 I’m looking to collaborate on with open source enthusiasts and developers<br><br>⚡ Fun fact I am a day dreamer<br><br>
 
 ## GSSOC(24) Badges 🪶:
 
